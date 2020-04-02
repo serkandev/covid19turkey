@@ -1,4 +1,4 @@
-# covid-19
+# TÜRKİYE GÜNLÜK KORONAVİRÜS TABLOSU
 
 > A Vue.js project
 
