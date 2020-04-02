@@ -1,6 +1,6 @@
-# TÜRKİYE GÜNLÜK KORONAVİRÜS TABLOSU
+# Türkiye Günlük Koronavirüs Tablosu
 
-> A Vue.js project
+> 
 
 ## Build Setup
 
