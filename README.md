@@ -1,6 +1,6 @@
 # Türkiye Günlük Koronavirüs Tablosu
 
-> 
+> Türkiye'deki Coronavirüs vakalarını gösteren tablo
 
 ## Build Setup
 
