@@ -1,7 +1,8 @@
 # Türkiye Günlük Koronavirüs Tablosu
 
-> Türkiye'deki Coronavirüs vakalarını gösteren tablo
-
+>  Türkiye'deki Günlük Corona Virüsü Vaka, Ölüm ve iyileşmelerini Gösteren Tablo 
+## API
+[NovelCOVID](https://github.com/novelcovid/api)
 ## Build Setup
 
 ``` bash
